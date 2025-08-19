@@ -65,5 +65,10 @@
 
 <img width="1320" height="610" alt="image" src="https://github.com/user-attachments/assets/30e5db76-20d3-424c-8154-a08350a1afb0" />
 
+## Display 해상도
+
+<img width="1243" height="443" alt="image" src="https://github.com/user-attachments/assets/42cb4004-8744-4c8a-83e7-89dccccd3e27" />
+
+
 
 
